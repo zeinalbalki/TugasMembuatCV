@@ -28,6 +28,10 @@ body {
   width: 160px;
   height: 38px;
 }
+.btn-download a {
+  text-decoration: none;
+  color: #fff;
+}
 .btn-download:hover {
   background-color: #0067ee;
   color: #fff;
